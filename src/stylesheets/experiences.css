@@ -1,0 +1,79 @@
+.articles_e {
+    margin: 100px 0 100px 5%;
+    display: block;
+    justify-content: center;
+    width: 90%;
+}
+
+.stages {
+    backdrop-filter: brightness(60%);
+    height: auto;
+}
+
+.stages > .p_e:first-child {
+    color: aqua;
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+}
+
+.stages > .p_e {
+    color: white;
+    text-align: left;
+    padding: 20px 0 20px 20px;
+}
+
+.hackathons {
+    display: block;
+    backdrop-filter: brightness(60%);
+    height: auto;
+    margin-top: 30px;
+}
+
+.hackathons > .p_e:first-child {
+    color: aqua;
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+}
+
+.hackathons > .p_e {
+    color: white;
+    text-align: left;
+    padding: 20px 0 20px 20px;
+}
+
+.others {
+    display: block;
+    backdrop-filter: brightness(60%);
+    height: auto;
+    margin-top: 30px;
+}
+
+.others > .p_e:first-child {
+    color: aqua;
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+}
+
+.others > .p_e {
+    color: white;
+    text-align: left;
+    padding: 20px 0 20px 20px;
+}
+
+.jobs {
+    backdrop-filter: brightness(60%);
+    height: auto;
+    margin-top: 30px;
+}
+
+.jobs > .p_e:first-child {
+    color: aqua;
+    font-size: 30px;
+    padding: 20px 0 0 20px;
+}
+
+.jobs > .p_e {
+    color: white;
+    text-align: left;
+    padding: 20px 0 20px 20px;
+}
